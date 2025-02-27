@@ -1,0 +1,262 @@
+[
+    {
+        "CompID": "1",
+        "entreprise": "OJPMBTPA CONSTRUCTION ",
+        "name": "MONESTIME ",
+        "lastname": "Jodelyn",
+        "email": "Ingjodelyn@gmail.com ",
+        "phone": "(+509)44266894",
+        "departement": "Nord",
+        "keyactivity": "\tCollecte de boues fécales / vidanges"
+    },
+    {
+        "CompID": "2",
+        "entreprise": "Klean-X S.A",
+        "name": "Lerneus",
+        "lastname": "Alexandra",
+        "email": "alerneus@klean-x.com",
+        "phone": "(+509)31460801",
+        "departement": "Ouest, Nord-Est, Artibonite, Nord, Nord-Ouest, Nippes, Sud, Sud-Est",
+        "keyactivity": "\tCollecte de boues fécales / vidanges"
+    },
+    {
+        "CompID": "3",
+        "entreprise": "Saniclean S.A",
+        "name": "Belhadji",
+        "lastname": "Mehdi ",
+        "email": "mbelhadji@cbgroupht.com",
+        "phone": "(+509)31013317",
+        "departement": "Nord, Nord-Est, Ouest, Sud, Sud-Est",
+        "keyactivity": "\tAutre, préciser "
+    },
+    {
+        "CompID": "4",
+        "entreprise": "Atta -El Roï Construction",
+        "name": "Pierre",
+        "lastname": "Elizée",
+        "email": "attaelroïconstruction@gmail.com",
+        "phone": "(+509)38395142",
+        "departement": "Nord",
+        "keyactivity": "\tConstruction de toilettes améliorées "
+    },
+    {
+        "CompID": "5",
+        "entreprise": "Sustainable Organic Integrated Livelihoods (SOIL)",
+        "name": "Kramer",
+        "lastname": "Sasha",
+        "email": "skramer@oursoil.org",
+        "phone": "(+509) 34847548",
+        "departement": "Nord",
+        "keyactivity": "\tConstruction de toilettes améliorées "
+    },
+    {
+        "CompID": "6",
+        "entreprise": "DENSCO",
+        "name": "Leus",
+        "lastname": "Jean Edens",
+        "email": "densco.service@gmail.com",
+        "phone": "(+509) 36436303",
+        "departement": "Sud",
+        "keyactivity": "\tCollecte de boues fécales / vidanges"
+    },
+    {
+        "CompID": "7",
+        "entreprise": "EKLA SERVICES",
+        "name": "PIERRE LOUIS",
+        "lastname": "MENDELSHONN",
+        "email": "mendelshonnpierrelouis07@gmail.com",
+        "phone": "(+509) 36263017",
+        "departement": "Ouest, Sud, Centre",
+        "keyactivity": "\tServiettes hygiéniques bio dégradables, diapers "
+    },
+    {
+        "CompID": "8",
+        "entreprise": "BIEN NETTOYER",
+        "name": "FILS-AIME",
+        "lastname": "KATIE-FLORE",
+        "email": "katieflore@biengroupht.com",
+        "phone": "(+509) 36850333",
+        "departement": "Nord, Nord-Est",
+        "keyactivity": "\tCollecte de boues fécales / vidanges"
+    },
+    {
+        "CompID": "9",
+        "entreprise": "FIMSAJ construction (Ensemble des techniciens constructeurs du Nord d'Haiti ,ETCNH)",
+        "name": "Dieudonné ",
+        "lastname": "Herode",
+        "email": "herodedieudonne7@gmail.com",
+        "phone": "(+509) 42511724",
+        "departement": "Nord",
+        "keyactivity": "\tConstruction de toilettes améliorées "
+    },
+    {
+        "CompID": "10",
+        "entreprise": "Bitasyon Merci-Jesus ",
+        "name": "Gattereau ",
+        "lastname": "Gerard Paul Rene",
+        "email": "Bitasyonmercijesus@gmail.com",
+        "phone": "(+509) 36943857",
+        "departement": "Sud, Nippes, Grand-Anse, Sud-Est",
+        "keyactivity": "\tConstruction de toilettes améliorées "
+    },
+    {
+        "CompID": "11",
+        "entreprise": "SEKO CLEAN",
+        "name": "LINCIFORT",
+        "lastname": "Shneeder",
+        "email": "lincifort2000@gmail.com",
+        "phone": "(+509) 34719233",
+        "departement": "Ouest",
+        "keyactivity": "\tConstruction de toilettes améliorées "
+    },
+    {
+        "CompID": "12",
+        "entreprise": "Elektra Sewing",
+        "name": "Lebrun",
+        "lastname": "Jean Robert",
+        "email": "jblebrun@yahoo.com",
+        "phone": "(305) 746 3200",
+        "departement": "Ouest",
+        "keyactivity": "Serviettes Hygiéniques"
+    },
+    {
+        "CompID": "13",
+        "entreprise": "Forchar",
+        "name": "Dominique",
+        "lastname": "Serge",
+        "email": "Serge@forchar.ca",
+        "phone": "(+1) 416 906 6851",
+        "departement": "Artibonite, Centre, Nord, Nord-Est, Nord-Ouest, Nippes, Grand-Anse, Ouest, Sud, Sud-Est",
+        "keyactivity": "Transformation de boues fécales"
+    },
+    {
+        "CompID": "14",
+        "entreprise": "SANEC",
+        "name": "Belizaire",
+        "lastname": "Elo",
+        "email": "belizaireelo@gmail.com",
+        "phone": "(+509) 32092567",
+        "departement": "Centre",
+        "keyactivity": "Construction de toilettes améliorées "
+    },
+    {
+        "CompID": "15",
+        "entreprise": "Centre Polytechnique Moderne de Jeremie",
+        "name": "Demosthenes ",
+        "lastname": "Daniel",
+        "email": "technologiedani@yahoo.fr",
+        "phone": "(+509) 36063188",
+        "departement": "Grand-Anse",
+        "keyactivity": "Transformation de boues fécales"
+    },
+    {
+        "CompID": "16",
+        "entreprise": "Union de Jeunes Entrepreneurs pour la Relance Economique Grand' Anselaise ",
+        "name": "Jacquet ",
+        "lastname": "Marie Lenade",
+        "email": "ujereg@yahoo.com ",
+        "phone": "(+509) 461482249",
+        "departement": "Grand-Anse",
+        "keyactivity": "Développement de produits résilients au climat relatif à l’assainissement (préciser) "
+    },
+    {
+        "CompID": "17",
+        "entreprise": "BRENN",
+        "name": "Chérise",
+        "lastname": "Pascal",
+        "email": "pascalcherise@gmail.com",
+        "phone": "(+509) 48574966",
+        "departement": "Ouest, Nord, Centre, Artibonite",
+        "keyactivity": "Développement de produits résilients au climat relatif à l’assainissement (préciser) "
+    },
+    {
+        "CompID": "18",
+        "entreprise": "509 Sanitatiion services et consultation S.A",
+        "name": "Destin",
+        "lastname": "Carline",
+        "email": "carlined509@gmail.com",
+        "phone": "(+509) 38157080",
+        "departement": "Nord-Est, Centre, Nord, Sud",
+        "keyactivity": "Développement de produits résilients au climat relatif à l’assainissement (préciser) "
+    },
+    {
+        "CompID": "19",
+        "entreprise": "RECYCLAPH",
+        "name": "BELLEUS",
+        "lastname": "Daphline",
+        "email": "daphlinebelleus@gmail.com",
+        "phone": "(+509) 42497400",
+        "departement": "Ouest",
+        "keyactivity": "Transformation de boues fécales"
+    },
+    {
+        "CompID": "20",
+        "entreprise": "Haiplast Recycling s.a ",
+        "name": "Fleurival",
+        "lastname": "Duckencia ",
+        "email": "dfbourdierd@gmail.com",
+        "phone": "(+509) 36331054",
+        "departement": "Ouest",
+        "keyactivity": "Construction de toilettes améliorées "
+    },
+    {
+        "CompID": "21",
+        "entreprise": "ESTE-AGRIV (Environnement _ Société _ Technologie _ Economie)",
+        "name": "VIXAMAR",
+        "lastname": "Aulin",
+        "email": "aulinvixamar23@gmail.com",
+        "phone": "(+509) 38181832",
+        "departement": "Nord",
+        "keyactivity": "Transformation de boues fécales"
+    },
+    {
+        "CompID": "22",
+        "entreprise": "Academie des Métiers pour l'Avenir (ACMA)",
+        "name": "Yeye",
+        "lastname": "Yvel",
+        "email": "aacma30@gmail.com",
+        "phone": "(+509) 35166004",
+        "departement": "Sud-Est",
+        "keyactivity": "Transformation de boues fécales"
+    },
+    {
+        "CompID": "23",
+        "entreprise": "Asosiyasyon pou developman vidanj nan Nò (ADVNN)",
+        "name": "Joseph",
+        "lastname": "Villard",
+        "email": "josephvillard485@gmail.com",
+        "phone": "(+509) 42355959",
+        "departement": "Nord",
+        "keyactivity": "Collecte de boues fécales / vidanges"
+    },
+    {
+        "CompID": "24",
+        "entreprise": "Bethsaida",
+        "name": "Brousseau",
+        "lastname": "Marie Renee",
+        "email": "brousseaumarie2@gmail.com",
+        "phone": "(+509) 34915454",
+        "departement": "Centre, Sud, Nord-Est",
+        "keyactivity": "Serviettes hygiéniques bio dégradables, diapers "
+    },
+    {
+        "CompID": "25",
+        "entreprise": "Tropiclean SA",
+        "name": "Miguel",
+        "lastname": "Jean Gabriel-Herby",
+        "email": "milizdream@gmail.com",
+        "phone": "(+509) 46947506",
+        "departement": "Nord-Est, Sud, Ouest, Sud-Est, Nord, Nord-Ouest",
+        "keyactivity": "Collecte de boues fécales / vidanges"
+    },
+    {
+        "CompID": "26",
+        "entreprise": "Biométhanisation",
+        "name": "Juste ",
+        "lastname": "Claudia",
+        "email": "www.sylvithadume@gmail.com",
+        "phone": "(+509) 36176534",
+        "departement": "Grand-Anse",
+        "keyactivity": "Transformation de boues fécales"
+    }
+]

@@ -1,0 +1,265 @@
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* CSS Variables for your project colors */
+:root {
+    --primary: #b8354b;
+    /* Used for buttons and key accents */
+    --secondary: #4c698e;
+    /* Used for footer and other backgrounds */
+    --accent: #0a4897;
+    /* Used for header */
+    --light: #f9f9f9;
+    /* Light background */
+    --dark: #333;
+}
+
+/* Global Styles */
+html,
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Montserrat', sans-serif;
+    background-color: var(--light);
+    color: var(--dark);
+    justify-content: center;
+    width: 100%;
+    
+    background: url("../asset/img/maps.jpg") no-repeat center center;
+    z-index: 1;
+
+}
+
+.cover-image img {
+    width: 100%;
+    height: auto;
+}
+
+/* Header Styling */
+header {
+    background-color: var(--accent);
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+/* Search Section */
+#search-section {
+    padding: 3rem;
+    background-color: aliceblue;
+
+}
+
+#search-section .input-group {
+    max-width: 95%;
+
+    margin: auto;
+}
+
+#searchInput {
+    width: 30%;
+    /* Increased width */
+    padding: 10px;
+    margin-left: 25%;
+    border: 1px solid var(--secondary);
+    border-radius: 4px 0 0 4px;
+}
+
+#searchButton {
+    width: 20%;
+    padding: 11px 20px;
+    background-color: var(--primary);
+    color: #fff;
+    border: none;
+
+    cursor: pointer;
+}
+
+/* Suggestions List */
+#suggestionsList {
+    margin-top: 0.5rem;
+}
+
+/* Search Results Section */
+#search-results-section {
+    padding: 1rem;
+}
+
+/* List Group Items */
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid var(--secondary);
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+/* Department Instruction Container */
+.department-instruction-container {
+    background-color: var(--light);
+    border: 1px solid var(--secondary);
+    border-radius: 15px;
+    padding: 10px;
+    margin: 1rem auto 4rem auto;
+    width: 50%;
+    text-align: center;
+}
+
+/* Buttons Section */
+#buttons-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 4%;
+}
+
+#buttons-section button {
+    margin: 0.5rem;
+    padding: 10px 20px;
+    background-color: var(--primary);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    flex: 1 1 40%;
+    max-width: 200px;
+    align-items: center;
+    justify-items: center;
+}
+
+/* Back Button */
+#backButton {
+    background-color: var(--secondary);
+    color: #fff;
+}
+
+/* Modal Styling */
+.modal {
+    position: fixed;
+    z-index: 1050;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    width: 90%;
+    max-width: 500px;
+    position: relative;
+}
+
+.close-button {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 28px;
+    color: var(--dark);
+    cursor: pointer;
+}
+
+/* Footer Styling */
+footer {
+    background-color: var(--secondary);
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    margin-top: auto;
+}
+
+/* Responsive Adjustments */
+@media (min-width: 768px) {
+    #buttons-section button {
+        flex: 1 1 30%;
+        max-width: none;
+    }
+
+}
+
+/* Mobile-friendly adjustments */
+@media (max-width: 767px) {
+
+    html,
+    body {
+        width: 100%;
+        height: auto;
+        font-family: 'Montserrat', sans-serif;
+        background-color: var(--light);
+        color: var(--dark);
+        justify-content: center;
+
+    }
+
+    header {
+        padding: 2rem;
+        /* Increase padding for better spacing */
+        font-size: x-small;
+    }
+
+    #search-section {
+        padding: 2rem;
+        /* Reduce padding to fit smaller screens */
+    }
+
+    #search-section .input-group {
+        max-width: 100%;
+    }
+
+    #searchInput {
+        width: 60%;
+        margin-left: 0;
+        border-radius: 4px 0 0 4px;
+    }
+
+    #searchButton {
+        width: 35%;
+    }
+
+    #buttons-section {
+        width: 100%;
+        height: auto;
+        /* Ensure full viewport height */
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    #buttons-section button {
+        width: 100%;
+        /* Make buttons full width */
+        max-width: 250px;
+    }
+
+    .department-instruction-container {
+        background-color: var(--light);
+        border: 1px solid var(--secondary);
+        border-radius: 15px;
+        padding: 10px;
+        margin: 1rem auto;
+        width: 80%;
+        text-align: center;
+    }
+}
+
+/* Change the image on mobile */
+@media (max-width: 767px) {
+    .cover-image img {
+        content: url('../asset/img/sanifin-qr-code.jpg'); /* Replace the image */
+    }
+}
